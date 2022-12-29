@@ -32,7 +32,7 @@ hide:
 
 
 ## Education
-- University of Electronic Science and Technology of China, **Bachelor** `2016 - 2022`
+- University of Electronic Science and Technology of China, **Bachelor** `2016 - 2020`
 - William & Mary, **Ph.D.** `2021- Now`
 
 ## Publications
