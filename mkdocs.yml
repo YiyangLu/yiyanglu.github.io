@@ -1,0 +1,63 @@
+site_name: Yiyang Lu
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    # - content.tooltips
+    # - navigation.tabs
+    # - navigation.top
+
+extra:
+  social:
+  # Use the link to find icons: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+    - icon: simple/googlescholar
+      link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
+      name: Google Scholar
+
+    # - icon: simple/dblp
+    #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
+    #   name: dblp
+
+    # - icon: simple/semanticscholar
+    #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
+    #   name: Semantic Scholar
+
+    # - icon: simple/linkedin
+    #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
+    #   name: LinkedIn
+
+markdown_extensions:
+# Please read  https://squidfunk.github.io/mkdocs-material/reference/admonitions/#collapsible-blocks
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+   - glightbox
