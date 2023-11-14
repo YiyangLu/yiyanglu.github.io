@@ -45,6 +45,14 @@ hide:
 
     <span style="color:grey" >Proceedings of the IEEE International Conference on Healthcare Informatics, December 2020. </span> `ICHI 2020`
 
+!!! note ""
+
+    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> :material-file-download:
+
+    Yiyang Lu, Jie Ren, Yasir Alanazi, Ahmed Mohammed, Diana McSpadden, Laura Hild, Mark Jones, Wesley Moore, Malachi Schram, Bryan Hess, Evgenia Smirni. 
+
+    <span style="color:grey" >SC '23 Research Posters: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, November 2023. </span> `ICHI 2020`
+
 
 ## Research Experience
 
