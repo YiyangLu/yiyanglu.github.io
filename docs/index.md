@@ -47,11 +47,11 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> :material-file-download:
+    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:material-file-download:](assets/paper/2023_SC_poster.pdf)
 
     __Yiyang Lu__ , Jie Ren, Yasir Alanazi, Ahmed Mohammed, Diana McSpadden, Laura Hild, Mark Jones, Wesley Moore, Malachi Schram, Bryan Hess, Evgenia Smirni. 
 
-    <span style="color:grey" >SC '23 Research Posters: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, November 2023. </span> `ICHI 2020`
+    <span style="color:grey" >SC '23 Research Posters: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, November 2023. </span> `SC 23`
 
 
 ## Research Experience
