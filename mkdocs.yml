@@ -1,7 +1,7 @@
 site_name: Yiyang Lu
 theme:
   name: material
-  # logo: assets/logo.png
+  logo: 
   favicon: assets/logo.png
   palette: 
     # Palette toggle for light mode
