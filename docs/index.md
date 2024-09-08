@@ -41,7 +41,7 @@ hide:
 
     Anna Schmedding, Philip Schowitz, Xugui Zhou, __Yiyang Lu__, Lishan Yang, Homa Alemzadeh and Evgenia Smirni. 
 
-    <span style="color:grey" >SAFECOMP2024: 43rd International Conference on Computer Safety, Reliability and Security. </span> `SAFECOMP2024 `
+    <span style="color:grey" >SAFECOMP2024: 43rd International Conference on Computer Safety, Reliability and Security. </span> `SAFECOMP 2024 `
 
 !!! note ""
 
