@@ -9,16 +9,18 @@ hide:
 
 # Yiyang lu
 
-<!-- <img align="left" width="15%" src="assets/me.jpg"> -->
-![portrait](assets/me.jpg){width="200px",align=left } 
+<div style="display: flex; align-items: center;">
+  <img src="assets/me.jpg" style="width: 200px; margin-right: 20px;" alt="portrait">
+  <div>
+    *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-*:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
+    **Advisor**: [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Advisor**:[Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
+    **Research interest**: Reliability, Machine learning, trustworthy neural network
 
-**Research interest**: Reliability, Machine learning, trustworthy neural network
-
-[:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }  <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
+    [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }
+  </div>
+</div>
 
 ## Education
 - University of Electronic Science and Technology of China, **Bachelor** `2016 - 2020`
@@ -28,7 +30,8 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Unveiling HPC Secrets: A Fundamental ML Model for Telemetry Analysis and Beyond__</font> (submitted)x
+    <font size="3">__Unveiling HPC Secrets: A Fundamental ML Model for Telemetry Analysis and Beyond__</font> (SUBMITTED)
+
     __Yiyang Lu__ , Jie Ren, Evgenia Smirni. 
 
 !!! note ""
