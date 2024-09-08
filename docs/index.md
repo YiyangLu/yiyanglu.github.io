@@ -9,20 +9,18 @@ hide:
 
 # Yiyang lu
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-  <img src="assets/me.jpg" style="width: 200px; margin-right: 20px;" alt="portrait">
-  </div>
-  <div style="flex: 2; padding-left: 20px;" markdown="1">
-      *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
+<!-- <img align="left" width="15%" src="assets/me.jpg"> -->
+<!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
+<img width="15%" style="float: right;"  src="assets/me.jpg"/>
 
-      **Advisor**: [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
+*:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-      **Research interest**: Reliability, Machine learning, trustworthy neural network
+**Advisor**:[Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-      [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }\
-  </div>
-</div>
+**Research interest**: Reliability, Machine learning, trustworthy neural network
+
+[:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }  
+<!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
 
 
 ## Education
