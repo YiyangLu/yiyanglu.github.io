@@ -7,8 +7,9 @@ hide:
 
 ---
 
-## Yiyang lu
+# About me
 
+## Yiyang Lu
 <!-- <img align="left" width="15%" src="assets/me.jpg"> -->
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <img width="15%" style="float: right;"  src="assets/me.jpg"/>
