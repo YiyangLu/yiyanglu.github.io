@@ -1,6 +1,6 @@
 ---
 hide:
-#   - navigation
+  - navigation
   - toc
 
 # glightbox.auto_caption: true

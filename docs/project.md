@@ -1,15 +1,15 @@
 ---
 hide:
-#   - navigation
+  - navigation
   - toc
 
 # glightbox.auto_caption: true
 
 ---
 
-# Project
+# Polaris
 
-## Polaris
+## Polaris2
 
 <!-- <img align="left" width="15%" src="assets/me.jpg"> -->
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
