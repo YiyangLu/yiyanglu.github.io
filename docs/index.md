@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+#   - navigation
   - toc
 
 # glightbox.auto_caption: true
@@ -15,7 +15,7 @@ hide:
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-**Advisor**:[Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/), [Prof. Jie Ren](https://jren73.github.io/)
+**Advisor**: [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/), [Prof. Jie Ren](https://jren73.github.io/)
 
 **Research interest**: High-performance computing, Fault tolerance and resilience
 
