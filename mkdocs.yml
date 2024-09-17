@@ -17,12 +17,19 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
+  nav:
+  - Home: index.md
+  - Project: project.md
+  - Blog:
+     - blog/blog1.md
+
   features:
     - navigation.instant
-    # - content.tooltips
+    - content.tooltips
     - navigation.tabs
-    # - navigation.top
+    - navigation.top
+    - navigation.indexes
+
     
 site_url: https://yiyanglu.github.io
 
