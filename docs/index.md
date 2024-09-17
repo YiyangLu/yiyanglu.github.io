@@ -7,8 +7,6 @@ hide:
 
 ---
 
-# About me
-
 ## Yiyang lu
 
 <!-- <img align="left" width="15%" src="assets/me.jpg"> -->
