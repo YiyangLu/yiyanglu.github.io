@@ -20,8 +20,8 @@ theme:
   nav:
   - Home: index.md
   - Project: project.md
-  - Blog:
-     - blog/blog1.md
+  # - Blog:
+  #    - blog/blog1.md
 
   features:
     - navigation.instant

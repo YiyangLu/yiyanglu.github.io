@@ -6,12 +6,13 @@ hide:
 # glightbox.auto_caption: true
 
 ---
+# Project
 
 ## Polaris
 
 <!-- <img align="left" width="15%" src="assets/me.jpg"> -->
-<!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
-<img width="15%" style="float: right;"  src="assets/me.jpg"/>
+![portrait](assets/me.jpg){ align=left }
+<!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
