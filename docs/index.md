@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-#   - toc
+  - toc
 
 # glightbox.auto_caption: true
 
@@ -85,3 +85,5 @@ hide:
 - CSCI241 Data Structures (Fall 2022)
 
 # Test
+
+test2
