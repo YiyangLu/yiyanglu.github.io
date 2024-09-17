@@ -21,15 +21,17 @@ theme:
   features:
     - navigation.instant
     # - content.tooltips
-    # - navigation.tabs
+    - navigation.tabs
     # - navigation.top
+    
+site_url: https://yiyanglu.github.io
 
 extra:
   social:
   # Use the link to find icons: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
-    - icon: simple/googlescholar
-      link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
-      name: Google Scholar
+    # - icon: simple/googlescholar
+    #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
+    #   name: Google Scholar
 
     # - icon: simple/dblp
     #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
@@ -39,9 +41,9 @@ extra:
     #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
     #   name: Semantic Scholar
 
-    # - icon: simple/linkedin
-    #   link: https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ
-    #   name: LinkedIn
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/yiyang-lu-889b45250/
+      name: LinkedIn
 
 markdown_extensions:
 # Please read  https://squidfunk.github.io/mkdocs-material/reference/admonitions/#collapsible-blocks

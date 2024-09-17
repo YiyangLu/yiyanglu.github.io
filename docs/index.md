@@ -15,11 +15,11 @@ hide:
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-**Advisor**:[Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
+**Advisor**:[Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/), [Prof. Jie Ren](https://jren73.github.io/)
 
-**Research interest**: Reliability, Machine learning, trustworthy neural network
+**Research interest**: High-performance computing, Fault tolerance and resilience
 
-[:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }  
+<!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
 
 
@@ -61,8 +61,9 @@ hide:
 
 ## Research Experience
 
-- [David Kotz's Group](https://www.cs.dartmouth.edu/~dfk/) in Dartmouth College: Research assistant for ["Wearable Technology"](https://auracle-project.org/) `2019`
+- William & Mary: Research assistant  `2023 - Now`
 - [Li Xiaojian's Group](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml) in SIAT CAS: Research assistant for "Brain-Computer Interface" `2020`
+- [David Kotz's Group](https://www.cs.dartmouth.edu/~dfk/) in Dartmouth College: Research assistant for ["Wearable Technology"](https://auracle-project.org/) `2019`
 
 ## Industry Experience
 
@@ -73,7 +74,7 @@ hide:
 - William&Mary Summer Graduate Research Fellowship (2021)
 - UESTC Outstanding Student Scholarship (2016-2017, 2017-2018)
 
-## Reviews
+## Services
 - MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
 - Sigmetrics'24: Special Interest Group on Measurement and Evaluation 2024 (subreviewer)
 - Sigmetrics'25: Special Interest Group on Measurement and Evaluation 2025 (subreviewer)
@@ -83,3 +84,4 @@ hide:
 - CSCI534 Nework Systems and Design (Spring 2022)
 - CSCI241 Data Structures (Fall 2022)
 
+# Test
