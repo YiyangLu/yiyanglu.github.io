@@ -9,7 +9,7 @@ hide:
 
 # About me
 
-![portrait](assets/me.jpg){width="150", align=left}
+![portrait](assets/me.jpg){width="150", align=right}
 ## Yiyang Lu
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->

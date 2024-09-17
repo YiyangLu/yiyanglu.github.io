@@ -10,9 +10,6 @@ hide:
 
 ## Polaris
 
-![portrait](assets/me.jpg){align=left}
-<!-- <img align="left" width="15%" src="assets/me.jpg"> -->
-<!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
