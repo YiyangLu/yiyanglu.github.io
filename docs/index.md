@@ -39,7 +39,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software__</font> [:material-file-download:](assets/paper/2024_safecomp.pdf)
+    <font size="3">__Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software__</font> [:fontawesome-solid-file-arrow-down:](assets/paper/2024_safecomp.pdf)
 
     Anna Schmedding, Philip Schowitz, Xugui Zhou, __Yiyang Lu__, Lishan Yang, Homa Alemzadeh and Evgenia Smirni. 
 
@@ -47,7 +47,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:material-file-download:](assets/paper/2023_SC_poster.pdf)
+    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:fontawesome-solid-file-arrow-down:](assets/paper/2023_SC_poster.pdf)
 
     __Yiyang Lu__ , Jie Ren, Yasir Alanazi, Ahmed Mohammed, Diana McSpadden, Laura Hild, Mark Jones, Wesley Moore, Malachi Schram, Bryan Hess, Evgenia Smirni. 
 
