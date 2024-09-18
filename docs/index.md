@@ -10,9 +10,10 @@ hide:
 # About me
 
 ![portrait](assets/me.jpg){width="150", align=right}
-## Yiyang Lu ([Resume](https://www.wm.edu/as/computerscience/))
+## Yiyang Lu
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
+:material-file-account: [Resume](https://www.wm.edu/as/computerscience/)
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
@@ -38,7 +39,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software__</font> [:paperclip:](assets/paper/2024_safecomp.pdf)
+    <font size="3">__Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software__</font> [:material-file-download:](assets/paper/2024_safecomp.pdf)
 
     Anna Schmedding, Philip Schowitz, Xugui Zhou, __Yiyang Lu__, Lishan Yang, Homa Alemzadeh and Evgenia Smirni. 
 
@@ -46,7 +47,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:paperclip:](assets/paper/2023_SC_poster.pdf)
+    <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:material-file-download:](assets/paper/2023_SC_poster.pdf)
 
     __Yiyang Lu__ , Jie Ren, Yasir Alanazi, Ahmed Mohammed, Diana McSpadden, Laura Hild, Mark Jones, Wesley Moore, Malachi Schram, Bryan Hess, Evgenia Smirni. 
 
@@ -54,7 +55,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Measuring children’s eating behavior with a wearable device__</font> [:paperclip:](assets/paper/2020_ICHI.pdf)
+    <font size="3">__Measuring children’s eating behavior with a wearable device__</font> [:material-file-download:](assets/paper/2020_ICHI.pdf)
 
     Shengjie Bi, __Yiyang Lu__ , Nicole Tobias, Ella Ryan, Travis Masterson, Sougata Sen, Ryan Halter, Jacob Sorber, Diane Gilbert-Diamond, and David Kotz. 
 
