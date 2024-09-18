@@ -13,7 +13,7 @@ hide:
 ## Yiyang Lu
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
-:material-file-account: [Resume](https://www.wm.edu/as/computerscience/)
+:material-file-account: [Resume](assets/paper/My_resume.pdf)
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
