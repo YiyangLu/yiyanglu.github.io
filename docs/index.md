@@ -17,7 +17,7 @@ hide:
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-**Advisor**: [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/), [Prof. Jie Ren](https://jren73.github.io/)
+**Advisor**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
 **Research interest**: High-performance computing, Fault tolerance and resilience
 
@@ -55,7 +55,7 @@ hide:
 
 !!! note ""
 
-    <font size="3">__Measuring children’s eating behavior with a wearable device__</font> [:material-file-download:](assets/paper/2020_ICHI.pdf)
+    <font size="3">__Measuring children’s eating behavior with a wearable device__</font> [:fontawesome-solid-file-arrow-down:](assets/paper/2020_ICHI.pdf)
 
     Shengjie Bi, __Yiyang Lu__ , Nicole Tobias, Ella Ryan, Travis Masterson, Sougata Sen, Ryan Halter, Jacob Sorber, Diane Gilbert-Diamond, and David Kotz. 
 
