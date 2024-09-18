@@ -13,13 +13,13 @@ hide:
 ## Yiyang Lu
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
-:material-file-account: [Resume](assets/paper/My_resume.pdf)
+:material-file-account: [CV](assets/paper/cv.pdf)
 
 *:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
-**Advisor**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
+**Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Research interest**: High-performance computing, Fault tolerance and resilience
+**Research interest**: HPC system operation, Reliability, Autonomous Vehicle Safety, GPUs
 
 <!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
@@ -76,7 +76,7 @@ hide:
 - William&Mary Summer Graduate Research Fellowship (2021)
 - UESTC Outstanding Student Scholarship (2016-2017, 2017-2018)
 
-## Services
+## Professional Services
 - MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
 - Sigmetrics'24: Special Interest Group on Measurement and Evaluation 2024 (subreviewer)
 - Sigmetrics'25: Special Interest Group on Measurement and Evaluation 2025 (subreviewer)
