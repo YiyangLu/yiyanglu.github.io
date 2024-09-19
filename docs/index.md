@@ -15,11 +15,11 @@ hide:
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
 :material-file-account: [CV](assets/paper/cv.pdf)
 
-*:material-school: Ph.D. in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
+*:material-school: Ph.D. Candidate in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
 **Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Research interest**: HPC system operation, Reliability, Autonomous Vehicle Safety, GPUs
+**Research interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety
 
 <!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
@@ -76,10 +76,10 @@ hide:
 - William&Mary Summer Graduate Research Fellowship (2021)
 - UESTC Outstanding Student Scholarship (2016-2017, 2017-2018)
 
-## Professional Services
-- MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
-- Sigmetrics'24: Special Interest Group on Measurement and Evaluation 2024 (subreviewer)
+## Professional Service
 - Sigmetrics'25: Special Interest Group on Measurement and Evaluation 2025 (subreviewer)
+- Sigmetrics'24: Special Interest Group on Measurement and Evaluation 2024 (subreviewer)
+- MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
 
 ## Teaching Assistant
 - CSCI243 Discrete Structures of CSCI (Fall 2021)
