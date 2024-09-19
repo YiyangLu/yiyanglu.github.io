@@ -64,7 +64,8 @@ hide:
 ## Research Experience
 
 - William & Mary: Research assistant  `2023 - Now`
-    - 
+    - HPC telemetry analysis
+    - Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software
 - [Li Xiaojian's Group](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml) in SIAT CAS: Research assistant for "Brain-Computer Interface" `2020`
 - [David Kotz's Group](https://www.cs.dartmouth.edu/~dfk/) in Dartmouth College: Research assistant for ["Wearable Technology"](https://auracle-project.org/) `2019`
 
