@@ -15,7 +15,7 @@ hide:
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
 :material-file-account: [CV](assets/paper/cv.pdf)
 
-*:material-school: Ph.D. Candidate in computer science, [William&Mary](https://www.wm.edu/as/computerscience/).*
+*:material-school: Ph.D. Candidate in Computer Science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
 **Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
@@ -64,6 +64,7 @@ hide:
 ## Research Experience
 
 - William & Mary: Research assistant  `2023 - Now`
+    - 
 - [Li Xiaojian's Group](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml) in SIAT CAS: Research assistant for "Brain-Computer Interface" `2020`
 - [David Kotz's Group](https://www.cs.dartmouth.edu/~dfk/) in Dartmouth College: Research assistant for ["Wearable Technology"](https://auracle-project.org/) `2019`
 
@@ -82,9 +83,9 @@ hide:
 - MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
 
 ## Teaching Assistant
-- CSCI243 Discrete Structures of CSCI (Fall 2021)
-- CSCI534 Nework Systems and Design (Spring 2022)
 - CSCI241 Data Structures (Fall 2022)
+- CSCI534 Nework Systems and Design (Spring 2022)
+- CSCI243 Discrete Structures of CSCI (Fall 2021)
 
 ## Tools
 C, Embedded C, Python, Go
