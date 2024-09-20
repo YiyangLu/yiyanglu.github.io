@@ -14,10 +14,10 @@ hide:
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
 
-[:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:material-more: Resume](assets/paper/cv.pdf){ .md-button }  
+[Email :fontawesome-solid-paper-plane:](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [CV :material-more:](assets/paper/cv.pdf){ .md-button }  
 
 
-:material-file-account: [CV](assets/paper/cv.pdf)
+<!-- :material-file-account: [CV](assets/paper/cv.pdf) -->
 
 *:material-school: Ph.D. Candidate in Computer Science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
