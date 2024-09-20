@@ -19,7 +19,7 @@ hide:
 
 **Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Research interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety
+**Research interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety, Fault Correction, Machine Learning, Anomaly Detection, Time Series Analysis, Data Analysis
 
 <!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
@@ -65,7 +65,14 @@ hide:
 
 - William & Mary: Research assistant  `2023 - Now`
     - HPC telemetry analysis
-    - Strategic Resilience Evaluation of Neural Networks within Autonomous Vehicle Software
+        - Analyzed a large amount of real-world production telemetry data from OLCF, JLab clusters.
+        - Proposed a predictive framework that adapts to diverse tasks, including anomaly detection and workload prediction.
+        - Developed a method to reveal telemetry relationships, offering a holistic view of system behavior.
+        - Analyzed the change of telemetry relationships relative to workload changes.
+    - Resilience Evaluation of Autonomous Vehicle Models
+        - Performed strategic resilience evaluation on an L4 autonomous driving system
+        - Examined the effectiveness of mitigation on critical faults in autonomous vehicles.
+
 - [Li Xiaojian's Group](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml) in SIAT CAS: Research assistant for "Brain-Computer Interface" `2020`
 - [David Kotz's Group](https://www.cs.dartmouth.edu/~dfk/) in Dartmouth College: Research assistant for ["Wearable Technology"](https://auracle-project.org/) `2019`
 
@@ -89,4 +96,7 @@ hide:
 - CSCI243 Discrete Structures of CSCI (Fall 2021)
 
 ## Tools
-C, Embedded C, Python, Go
+ - Programming Languages: Python, Embeded C, Java, Go
+ - Data analysis: PyTorch, NumPy, Pandas, Pyspark, Tsfresh, Librosa, Optuna, Matplotlib, Plotly, PyG, Networkx
+ - Simulator: Carla, Apollo
+ - Database: Spark, Hive, Elasticsearch, ClickHouse
