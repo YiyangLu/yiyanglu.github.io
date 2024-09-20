@@ -13,13 +13,17 @@ hide:
 ## Yiyang Lu
 <!-- ![portrait](assets/me.jpg){width="200px",align=left }  -->
 <!-- <img width="15%" style="float: right;"  src="assets/me.jpg"/> -->
+
+[:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:material-more: Resume](assets/paper/cv.pdf){ .md-button }  
+
+
 :material-file-account: [CV](assets/paper/cv.pdf)
 
 *:material-school: Ph.D. Candidate in Computer Science, [William&Mary](https://www.wm.edu/as/computerscience/).*
 
 **Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Research interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety, Fault Correction, Machine Learning, Anomaly Detection, Time Series Analysis, Data Analysis
+**Research Interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety, Fault Correction, Machine Learning, Anomaly Detection, Time Series Analysis, Data Analysis
 
 <!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
