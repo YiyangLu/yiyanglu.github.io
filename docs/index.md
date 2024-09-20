@@ -74,7 +74,7 @@ hide:
         - Developed a method to reveal telemetry relationships, offering a holistic view of system behavior.
         - Analyzed the change of telemetry relationships relative to workload changes.
     - Resilience Evaluation of Autonomous Vehicle Models
-        - Performed strategic resilience evaluation on an L4 autonomous driving system
+        - Performed strategic resilience evaluation on an L4 autonomous driving system.
         - Examined the effectiveness of mitigation on critical faults in autonomous vehicles.
 
 - [Li Xiaojian's Group](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/13.shtml) in SIAT CAS: Research assistant for "Brain-Computer Interface" `2020`
