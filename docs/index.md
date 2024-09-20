@@ -102,5 +102,4 @@ hide:
 ## Tools
  - Programming Languages: Python, Embeded C, Java, Go
  - Data analysis: PyTorch, NumPy, Pandas, Pyspark, Tsfresh, Librosa, Optuna, Matplotlib, Plotly, PyG, Networkx
- - Simulator: Carla, Apollo
- - Database: Spark, Hive, Elasticsearch, ClickHouse
+ - Others: Carla, Apollo, Spark, Hive, Elasticsearch, ClickHouse
