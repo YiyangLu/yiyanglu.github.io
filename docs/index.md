@@ -51,6 +51,12 @@ hide:
 
 !!! note ""
 
+    <font size="3">__Dataset for Investigating Anomalies in Compute Clusters__</font> [:fontawesome-solid-file-arrow-down:](https://zenodo.org/records/10058230)
+
+    Diana McSpadden, Yasir Alanazi, Bryan Hess, Laura Hild, Mark Jones, __Yiyang Lu__, Ahmed Mohammed, Wesley Moore, Jie Ren, Malachi Schram, Evgenia Smirni 
+
+!!! note ""
+
     <font size="3">__Investigating Anomalies in Compute Clusters: An Unsupervised Learning Approach__</font> [:fontawesome-solid-file-arrow-down:](assets/paper/2023_SC_poster.pdf)
 
     __Yiyang Lu__ , Jie Ren, Yasir Alanazi, Ahmed Mohammed, Diana McSpadden, Laura Hild, Mark Jones, Wesley Moore, Malachi Schram, Bryan Hess, Evgenia Smirni. 
