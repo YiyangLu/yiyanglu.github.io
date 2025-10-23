@@ -39,7 +39,7 @@ hide:
 
     <font size="3">__Dataset and Benchmark for Learning on Large-Scale HPC Infrastructure__</font> (SUBMITTED)
 
-    __Yiyang Lu__ , Woong Shin, Ahmad Maroof Karimi, Jie Ren, Evgenia Smirni.
+    __Yiyang Lu__ , Woong Shin, Ahmad Maroof Karimi, Feiyi Wang, Evgenia Smirni, Jie Ren.
 
 !!! note ""
 
