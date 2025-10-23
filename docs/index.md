@@ -37,6 +37,12 @@ hide:
 
 !!! note ""
 
+    <font size="3">__Dataset and Benchmark for Learning on Large-Scale HPC Infrastructure__</font> (SUBMITTED)
+
+    __Yiyang Lu__ , Woong Shin, Ahmad Maroof Karimi, Jie Ren, Evgenia Smirni.
+
+!!! note ""
+
     <font size="3">__Unveiling HPC Secrets: A Fundamental ML Model for Telemetry Analysis and Beyond__</font> (SUBMITTED)
 
     __Yiyang Lu__ , Jie Ren, Evgenia Smirni. 
@@ -73,6 +79,8 @@ hide:
 
 ## Research Experience
 
+
+- Oak Ridge National Laboratory (ORNL): Graduate Research Intern  `2025`
 - William & Mary: Research assistant  `2023 - Now`
     - HPC telemetry analysis
         - Analyzed a large amount of real-world production telemetry data from OLCF, JLab clusters.
