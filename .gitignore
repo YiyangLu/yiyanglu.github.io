@@ -1,0 +1,5 @@
+# Local private files kept in the working tree but not pushed.
+/.local/
+
+# Keep the CV source private if it is accidentally recreated at repo root.
+/cv.tex

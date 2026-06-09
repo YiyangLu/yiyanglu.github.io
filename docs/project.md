@@ -9,6 +9,15 @@ hide:
 # Project
 
 !!! note ""
+    ## Data Science Agent
+
+    Coding agents are transforming data science, but they still struggle with chart understanding when vision-language models hallucinate values from pixel data.
+
+    - Built visualization agents with direct plot introspection and interaction to reduce VLM data hallucination.
+    - Developed `iPlotBench`, a benchmarking suite for evaluating agentic visualization capabilities.
+    - Developed `Deep Plot` for iterative data exploration and automated insights generation.
+
+!!! note ""
     ## HPC telemetry analysis
     ![portrait](assets/project/sc_poster_graph.png){width="450", align=right}
     As compute clusters continue to grow in scale and complexity, the analysis of HPC telemetry becomes increasingly challenging. This project aims to leverage novel learning methods to understand system dynamics and the relationships between telemetry data.
@@ -23,4 +32,3 @@ hide:
     - [TGFI](assets/paper/2024_safecomp.pdf) efficiently finds fault sites that lead to hazards.
     
     
-

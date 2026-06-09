@@ -19,33 +19,51 @@ hide:
 
 <!-- :material-file-account: [CV](assets/paper/cv.pdf) -->
 
-*:material-school: Ph.D. Candidate in Computer Science, [William&Mary](https://www.wm.edu/as/computerscience/).*
+*:material-school: Ph.D. Candidate in Computer Science, [William & Mary](https://www.wm.edu/as/computerscience/).*
 
 **Co-Advisors**: [Prof. Jie Ren](https://jren73.github.io/), [Prof. Evgenia Smirni](https://www.cs.wm.edu/~esmirni/)
 
-**Research Interest**: HPC system operation, Reliability, GPUs, Autonomous Vehicle Safety, Fault Correction, Machine Learning, Anomaly Detection, Time Series Analysis, Data Analysis
+**Research Interest**: Agentic AI, Resilience, Anomaly Detection, Safety-Critical Systems, Time Series Analytics, HPC
 
 <!-- [:material-email: Email](mailto:ylu21@wm.edu "ylu21 AT wm.edu"){ .md-button } [:simple-googlescholar: Google Scholar](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button }   -->
 <!-- [:material-more: Resume](https://scholar.google.com/citations?hl=en&user=tmrnmuUAAAAJ){ .md-button } -->
 
 
 ## Education
-- University of Electronic Science and Technology of China, **Bachelor** `2016 - 2020`
-- William & Mary, **Ph.D.** `2021- Now`
+- William & Mary, **Ph.D. in Computer Science** `2021 - Present`
+- University of Electronic Science and Technology of China, **B.S. in Software Engineering** `2016 - 2020`
 
 ## Publications
 
 !!! note ""
 
-    <font size="3">__Dataset and Benchmark for Learning on Large-Scale HPC Infrastructure__</font> (SUBMITTED)
+    <font size="3">__Introspective and Interactive Visual Grounding for Visualization Agents__</font>
+
+    __Yiyang Lu__, Woong Shin, Ahmad Maroof Karimi, Feiyi Wang, Jie Ren, Evgenia Smirni.
+
+    <span style="color:grey" >ACM SIGMETRICS 2026 Student Poster Session, to be presented.</span> `SIGMETRICS 2026`
+
+!!! note ""
+
+    <font size="3">__ML-Based GPU Error Prediction in Production HPC: Challenges and Trade-offs__</font> (SUBMITTED)
 
     __Yiyang Lu__ , Woong Shin, Ahmad Maroof Karimi, Feiyi Wang, Evgenia Smirni, Jie Ren.
 
 !!! note ""
 
-    <font size="3">__Unveiling HPC Secrets: A Fundamental ML Model for Telemetry Analysis and Beyond__</font> (SUBMITTED)
+    <font size="3">__Mantis: Decoding HPC Telemetry Data for Robust System Prediction__</font>
 
     __Yiyang Lu__ , Jie Ren, Evgenia Smirni. 
+
+    <span style="color:grey" >Proceedings of the 40th ACM International Conference on Supercomputing, to appear.</span> `ICS 2026`
+
+!!! note ""
+
+    <font size="3">__On Predicting Vulnerability Severity Using In-Context Learning: An Industrial Case Study__</font>
+
+    Daniel Rodriguez-Cardenas, David N. Palacio, Anna Schmedding, __Yiyang Lu__, Bill Hudson, Chris Gourley, Michael Roytman, Chris Shenefiel, Evgenia Smirni, Denys Poshyvanyk.
+
+    <span style="color:grey" >Journal of Software: Evolution and Process, to appear.</span>
 
 !!! note ""
 
@@ -54,12 +72,6 @@ hide:
     Anna Schmedding, Philip Schowitz, Xugui Zhou, __Yiyang Lu__, Lishan Yang, Homa Alemzadeh and Evgenia Smirni. 
 
     <span style="color:grey" >SAFECOMP2024: 43rd International Conference on Computer Safety, Reliability and Security. </span> `SAFECOMP 2024 `
-
-!!! note ""
-
-    <font size="3">__Dataset for Investigating Anomalies in Compute Clusters__</font> [:fontawesome-solid-file-arrow-down:](https://zenodo.org/records/10058230)
-
-    Diana McSpadden, Yasir Alanazi, Bryan Hess, Laura Hild, Mark Jones, __Yiyang Lu__, Ahmed Mohammed, Wesley Moore, Jie Ren, Malachi Schram, Evgenia Smirni 
 
 !!! note ""
 
@@ -77,16 +89,27 @@ hide:
 
     <span style="color:grey" >Proceedings of the IEEE International Conference on Healthcare Informatics, December 2020. </span> `ICHI 2020`
 
+## Datasets
+
+!!! note ""
+
+    <font size="3">__Dataset for Investigating Anomalies in Compute Clusters__</font> [:fontawesome-solid-file-arrow-down:](https://zenodo.org/records/10058230)
+
+    Diana McSpadden, Yasir Alanazi, Bryan Hess, Laura Hild, Mark Jones, __Yiyang Lu__, Ahmed Mohammed, Wesley Moore, Jie Ren, Malachi Schram, Evgenia Smirni.
+
 ## Research Experience
 
 
-- Oak Ridge National Laboratory (ORNL): Graduate Research Intern  `2025`
-- William & Mary: Research assistant  `2023 - Now`
+- Oak Ridge National Laboratory (ORNL): Graduate Research Intern  `June 2025 - Aug 2025`
+- William & Mary: Research Assistant  `June 2022 - Present`
+    - Data Science Agent
+        - Built visualization agents with direct plot introspection and interaction to alleviate VLM data hallucination.
+        - Developed iPlotBench, a benchmarking suite for evaluating agentic visualization capabilities.
+        - Developed Deep Plot for iterative data exploration and automated insights generation.
     - HPC telemetry analysis
         - Analyzed a large amount of real-world production telemetry data from OLCF, JLab clusters.
         - Proposed a predictive framework that adapts to diverse tasks, including anomaly detection and workload prediction.
         - Developed a method to reveal telemetry relationships, offering a holistic view of system behavior.
-        - Analyzed the change of telemetry relationships relative to workload changes.
     - Resilience Evaluation of Autonomous Vehicle Models
         - Performed strategic resilience evaluation on an L4 autonomous driving system.
         - Examined the effectiveness of mitigation on critical faults in autonomous vehicles.
@@ -104,6 +127,8 @@ hide:
 - UESTC Outstanding Student Scholarship (2016-2017, 2017-2018)
 
 ## Professional Service
+- HPDC'26: International Symposium on High-Performance Parallel and Distributed Computing 2026 (subreviewer)
+- Sigmetrics'26: Special Interest Group on Measurement and Evaluation 2026 (subreviewer)
 - Sigmetrics'25: Special Interest Group on Measurement and Evaluation 2025 (subreviewer)
 - Sigmetrics'24: Special Interest Group on Measurement and Evaluation 2024 (subreviewer)
 - MSN 2022: The 18th International Conference on Mobility, Sensing and Networking (subreviewer)
@@ -114,7 +139,7 @@ hide:
 - CSCI243 Discrete Structures of CSCI (Fall 2021)
 
 ## Tools
- - Programming Languages: Python, Embeded C, Java, Go
+ - Programming Languages: Python, Embedded C, Java, Go
  - Data analysis: PyTorch, NumPy, Pandas, Pyspark, Tsfresh, Librosa, Optuna, Matplotlib, Plotly, PyG, Networkx
- - Simulators: Carla, Apollo
+ - Simulators: Carla, Apollo, Autoware
  - Databases: Spark, Hive, Elasticsearch, ClickHouse
